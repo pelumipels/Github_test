@@ -25,7 +25,7 @@ function calculator(num1, num2, operator) {
 // console.log(calculator(10, 5, "*")); // 50
 // console.log(calculator(10, 5, "/")); // 2
 
-console.log(calculator(40, 5, "+"));
-console.log(calculator(40, 5, "-"));
-console.log(calculator(40, 5, "*"));
-console.log(calculator(40, 5, "/"));
+console.log(calculator(100, 5, "+"));
+console.log(calculator(100, 5, "-"));
+console.log(calculator(100, 5, "*"));
+console.log(calculator(100, 5, "/"));
